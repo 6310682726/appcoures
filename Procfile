@@ -1,1 +1,1 @@
-web: gunicorn appcoursetu.wsgi
+web: gunicorn as2.wsgi
