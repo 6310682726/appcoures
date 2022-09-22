@@ -40,8 +40,6 @@ cryptography==37.0.4
 
 cs50==9.2.2
 
-CS50-VSIX-Client @ file:///tmp/cs50.vsix/python-clients/cs50vsix-client
-
 cssselect2==0.6.0
 
 Django==4.1.1
